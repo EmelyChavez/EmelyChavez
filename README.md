@@ -45,6 +45,23 @@ Tengo experiencia en desarrollo web, bases de datos y creación de aplicaciones 
 - Proyectos open-source  
 
 ---
+## Mis Proyectos ✨
+
+<a href="https://github.com/Alejandra-437/Newtonians">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandra-437&repo=Newtonians&theme=radical" />
+</a>
+
+<a href="https://github.com/Glimmercitos/VitalPaw_Backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Glimmercitos&repo=VitalPaw_Backend&theme=radical" />
+</a>
+
+<a href="https://github.com/Glimmercitos/VitalPaw_UI">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Glimmercitos&repo=VitalPaw_UI&theme=radical" />
+</a>
+
+<a href="https://github.com/violetalisbeth/ParcialFinalPOO">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=violetalisbeth&repo=ParcialFinalPOO&theme=radical" />
+</a>
 
 ## 📫 Contacto
 
