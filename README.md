@@ -73,7 +73,7 @@ Tengo experiencia en desarrollo web, bases de datos y creación de aplicaciones 
 ## 📫 Contacto
 <p align="center">
 <br>
-<a href="www.linkedin.com/in/emely-chávez-1b81a0250"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/emely-chávez-1b81a0250"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:alexandrachavez851@gmail.com?subject=Hola%20"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
   <a href="https://github.com/EmelyChavez" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
