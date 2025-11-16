@@ -13,12 +13,13 @@ Tengo experiencia en desarrollo web, bases de datos y creación de aplicaciones 
 
 ## 🛠️ Tecnologías que manejo
 
-- **Lenguajes:** C, JavaScript  
+- **Lenguajes:** C++, JavaScript  
 - **Frontend:** HTML, CSS, React  
 - **Backend:** Node.js | Express 
 - **Bases de datos:** PostgreSQL, MongoDB, SQL, FireBase  
-- **Móviles:** Kotlin  
+- **Móviles:** Kotlin
 - **Extras:** Git, GitHub, Linux, APIs REST
+- **Herramientas y entornos:** VS Code, Postman
 
 ---
 
@@ -47,6 +48,8 @@ Tengo experiencia en desarrollo web, bases de datos y creación de aplicaciones 
 ---
 ## Mis Proyectos ✨
 
+<div align="center">
+
 <a href="https://github.com/Alejandra-437/Newtonians">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandra-437&repo=Newtonians&theme=radical" />
 </a>
@@ -63,9 +66,20 @@ Tengo experiencia en desarrollo web, bases de datos y creación de aplicaciones 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=violetalisbeth&repo=ParcialFinalPOO&theme=radical" />
 </a>
 
-## 📫 Contacto
+</div>
 
-📩 **alexandrachavez851@gmail.com**
+
+
+## 📫 Contacto
+<p align="center">
+<br>
+<a href="www.linkedin.com/in/emely-chávez-1b81a0250"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:alexandrachavez851@gmail.com?subject=Hola%20"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+  <a href="https://github.com/EmelyChavez" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+</p>
+
 
 ---
 
