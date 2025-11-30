@@ -65,12 +65,6 @@ Tengo experiencia en desarrollo web, bases de datos y creación de aplicaciones 
 <a href="https://github.com/violetalisbeth/ParcialFinalPOO">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=violetalisbeth&repo=ParcialFinalPOO&theme=radical" />
 </a>
-<a href="https://github.com/GlimmercitosSED/frontend.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=violetalisbeth&repo=ParcialFinalPOO&theme=radical" />
-</a>
-<a href="https://github.com/GlimmercitosSED/backend.git">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=violetalisbeth&repo=ParcialFinalPOO&theme=radical" />
-</a>
 
 </div>
 
