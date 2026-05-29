@@ -50,21 +50,21 @@ Tengo experiencia en desarrollo web, bases de datos y creación de aplicaciones 
 
 <div align="center">
 
-<a href="https://github.com/Alejandra-437/Newtonians">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Alejandra-437&repo=Newtonians&theme=radical" />
-</a>
-
-<a href="https://github.com/Glimmercitos/VitalPaw_Backend">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Glimmercitos&repo=VitalPaw_Backend&theme=radical" />
-</a>
-
-<a href="https://github.com/Glimmercitos/VitalPaw_UI">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Glimmercitos&repo=VitalPaw_UI&theme=radical" />
-</a>
-
-<a href="https://github.com/violetalisbeth/ParcialFinalPOO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=violetalisbeth&repo=ParcialFinalPOO&theme=radical" />
-</a>
+  <a href="https://github.com/Alejandra-437/Newtonians">
+    <img src="https://img.shields.io/badge/Proyecto-Newtonians-blue?style=for-the-badge" alt="Newtonians"/>
+  </a>
+  
+  <a href="https://github.com/Glimmercitos/VitalPaw_Backend">
+    <img src="https://img.shields.io/badge/VitalPaw-Backend-brightgreen?style=for-the-badge" alt="VitalPaw Backend"/>
+  </a>
+  
+  <a href="https://github.com/Glimmercitos/VitalPaw_UI">
+    <img src="https://img.shields.io/badge/VitalPaw-UI-orange?style=for-the-badge" alt="VitalPaw UI"/>
+  </a>
+  
+  <a href="https://github.com/violetalisbeth/ParcialFinalPOO">
+    <img src="https://img.shields.io/badge/Parcial-POO-red?style=for-the-badge" alt="Parcial Final POO"/>
+  </a>
 
 </div>
 
