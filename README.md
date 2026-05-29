@@ -6,7 +6,7 @@
 <img align="right" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHU4eTEwaHg3eHM1amtrcWtlaDhkZzgwdDZmbXRqdjhrMnR4anc2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
-Soy estudiante de **Ingeniería Informática de 3er año** con gran pasión por el **desarrollo backend** y el diseño de soluciones tecnológicas.  
+Soy estudiante de **Ingeniería Informática de 4to año** con gran pasión por el **desarrollo backend** y el diseño de soluciones tecnológicas.  
 Tengo experiencia en desarrollo web, bases de datos y creación de aplicaciones móviles. Me encanta aprender, crear y resolver problemas reales a través del código.
 
 ---
