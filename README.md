@@ -1,107 +1,239 @@
-# ¡Hola! Soy Emely 💖✨
+# Hola, soy Emely Chávez
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=EmelyChavez.repoName)
-[![GitHub followers](https://img.shields.io/github/followers/EmelyChavez.svg?style=social&label=Follow)](https://github.com/EmelyChavez?tab=followers)
+<img align="right" width="280" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHU4eTEwaHg3eHM1amtrcWtlaDhkZzgwdDZmbXRqdjhrMnR4anc2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" />
 
-<img align="right" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHU4eTEwaHg3eHM1amtrcWtlaDhkZzgwdDZmbXRqdjhrMnR4anc2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nFLW7PNGgN3lI68rdv/giphy.gif" />
+## Sobre mí
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***
-Soy estudiante de **Ingeniería Informática de 4to año** con gran pasión por el **desarrollo backend** y el diseño de soluciones tecnológicas.  
-Tengo experiencia en desarrollo web, bases de datos y creación de aplicaciones móviles. Me encanta aprender, crear y resolver problemas reales a través del código.
+Soy estudiante de **Ingeniería Informática de 4to año**, enfocada en el **desarrollo backend y la construcción de soluciones tecnológicas**.
 
----
+Tengo experiencia desarrollando aplicaciones web, APIs REST, sistemas con bases de datos relacionales y no relacionales, además de aplicaciones móviles con Kotlin.
 
-## 🛠️ Tecnologías que manejo
+Me interesa el diseño de arquitecturas backend, la creación de software mantenible, la optimización de procesos y el desarrollo de soluciones que resuelvan problemas reales.
 
-- **Lenguajes:** C++, JavaScript  
-- **Frontend:** HTML, CSS, React  
-- **Backend:** Node.js | Express 
-- **Bases de datos:** PostgreSQL, MongoDB, SQL, FireBase  
-- **Móviles:** Kotlin
-- **Extras:** Git, GitHub, Linux, APIs REST
-- **Herramientas y entornos:** VS Code, Postman
+También cuento con conocimientos en análisis de datos y Business Intelligence utilizando SQL y Power BI.
 
 ---
 
-## 🚀 Actualmente aprendiendo
-- Python
+## Stack tecnológico
+
+### Backend
+
+- Java
+- Spring Boot
+- Node.js
+- Express.js
+- APIs REST
+- JWT
+- JPA / Hibernate
+- Arquitectura por capas
+
+### Bases de datos
+
+- PostgreSQL
+- SQL Server
+- MongoDB
+- Firebase
+
+### Frontend
+
+- React
+- JavaScript
+- HTML
+- CSS
+
+### Desarrollo móvil
+
+- Kotlin
+- Android Jetpack Compose
+
+### Datos y Business Intelligence
+
+- SQL
+- Modelado dimensional
+- Data Warehouse
+- Power BI
+
+### DevOps y herramientas
+
+- Docker
+- Git
+- GitHub
+- GitHub Actions
+- Linux
+- Postman
+- VS Code
 
 ---
 
-##  🎓 Certificaciones
+## Actualmente fortaleciendo conocimientos
 
-- *MTA 98-382: Introduction to Programming using FrontEnd* — Microsoft (2022)  
-- *Microsoft Excel (2016)* — Microsoft (2022)  
-- *TOEIC Speaking and Writing* — TOEIC (2022)  
-- *TOEIC Listening and Reading* — TOEIC (2022)  
-- *Power BI* — Santander Open Academy (2023)  
-
----
-
-## 🤝 Me gustaría colaborar en...
-- Proyectos backend  
-- APIs REST  
-- Aplicaciones web  
-- Apps móviles con Kotlin  
-- Proyectos open-source  
+- Testing automatizado
+- Buenas prácticas de arquitectura backend
+- Integración continua y despliegue
+- Diseño de sistemas escalables
+- Patrones de diseño y principios SOLID
 
 ---
-## Mis Proyectos ✨
+
+## Certificaciones
+
+- **MTA 98-382: Introduction to Programming using FrontEnd** — Microsoft (2022)
+- **Microsoft Excel 2016** — Microsoft (2022)
+- **TOEIC Speaking and Writing** — TOEIC (2022)
+- **TOEIC Listening and Reading** — TOEIC (2022)
+- **Power BI** — Santander Open Academy (2024)
+
+---
+## Proyectos destacados
 
 <div align="center">
 
-  <a href="https://github.com/Alejandra-437/Newtonians">
-    <img src="https://img.shields.io/badge/Proyecto-Newtonians-blue?style=for-the-badge&logo=python" alt="Newtonians"/>
-  </a>
-  
-  <a href="https://github.com/Glimmercitos/VitalPaw_Backend">
-    <img src="https://img.shields.io/badge/VitalPaw-Backend-brightgreen?style=for-the-badge&logo=javascript" alt="VitalPaw Backend"/>
-  </a>
-  
-  <a href="https://github.com/Glimmercitos/VitalPaw_UI">
-    <img src="https://img.shields.io/badge/VitalPaw-UI-orange?style=for-the-badge&logo=kotlin" alt="VitalPaw UI"/>
-  </a>
-  
-  <a href="https://github.com/violetalisbeth/ParcialFinalPOO">
-    <img src="https://img.shields.io/badge/Parcial-POO-red?style=for-the-badge" alt="Parcial Final POO"/>
-  </a>
+<table>
+<tr>
 
-  <a href="https://github.com/GlimmercitosSED/backend">
-    <img src="https://img.shields.io/badge/SED-Backend-violet?style=for-the-badge&logo=python" alt="SED Backend"/>
-  </a>
+<td width="50%" valign="top">
+
+<h3 align="center">WorkHive</h3>
+
+<div align="center">
+
+<a href="https://github.com/VEF-NCAPAS/backend">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=VEF-NCAPAS&repo=backend&theme=default&hide_border=true" />
+</a>
 
 </div>
 
-
-
-## 📫 Contacto
 <p align="center">
-<br>
-<a href="https://www.linkedin.com/in/emely-chávez-1b81a0250"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:alexandrachavez851@gmail.com?subject=Hola%20"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<a href="mailto:00097923@uca.edu.sv?subject=Hola">
-  <img src="https://img.shields.io/badge/outlook%20institucional-%230078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Institucional" />
-</a>
-  <a href="https://github.com/EmelyChavez" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+Plataforma backend para gestión de empleo desarrollada con Spring Boot, PostgreSQL, JWT y arquitectura por capas.
 </p>
 
+</td>
 
----
 
-# 📊 Mis estadísticas en GitHub
+<td width="50%" valign="top">
+
+<h3 align="center">VitalPaw Backend</h3>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EmelyChavez&theme=radical" />
+<a href="https://github.com/Glimmercitos/VitalPaw_Backend">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Glimmercitos&repo=VitalPaw_Backend&theme=default&hide_border=true" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=EmelyChavez&show_icons=true&theme=radical&include_all_commits=true" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmelyChavez&layout=compact&theme=radical" />
+<p align="center">
+API backend para gestión veterinaria con usuarios, mascotas, citas y productos.
+</p>
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">VitalPaw Mobile</h3>
+
+<div align="center">
+
+<a href="https://github.com/Glimmercitos/VitalPaw_UI">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Glimmercitos&repo=VitalPaw_UI&theme=default&hide_border=true" />
+</a>
+
+</div>
+
+<p align="center">
+Aplicación móvil desarrollada con Kotlin y Jetpack Compose.
+</p>
+
+</td>
+
+
+<td width="50%" valign="top">
+
+<h3 align="center">SED Backend</h3>
+
+<div align="center">
+
+<a href="https://github.com/GlimmercitosSED/backend">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=GlimmercitosSED&repo=backend&theme=default&hide_border=true" />
+</a>
+
+</div>
+
+<p align="center">
+Backend desarrollado en Python orientado a servicios y gestión de información.
+</p>
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">Newtonians</h3>
+
+<div align="center">
+
+<a href="https://github.com/Alejandra-437/Newtonians">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=Alejandra-437&repo=Newtonians&theme=default&hide_border=true" />
+</a>
+
+</div>
+
+<p align="center">
+Entrenamiento y validación de modelos de regresión lineal optimizados mediante algoritmos matemáticos para asegurar la precisión y eficiencia de las predicciones.
+</p>
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
 ---
 
-✨ *Gracias por visitar mi perfil. ¡Siempre estoy creando algo nuevo!* ✨
+## Áreas de interés
+
+- Desarrollo backend
+- Diseño e integración de APIs REST
+- Arquitectura de software
+- Bases de datos
+- Desarrollo web
+- Desarrollo móvil
+- Business Intelligence
+---
+
+## Contacto
+
+<div align="center">
+
+## Contacto
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/emelyachavez">
+<img src="https://api.iconify.design/logos:linkedin-icon.svg" width="35" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:ealexandrachavez@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="35" />
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/EmelyChavez">
+<img src="https://cdn.simpleicons.org/github/181717" width="35" />
+</a>
+
+</div>
+
+</div>
