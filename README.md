@@ -34,13 +34,6 @@ También cuento con conocimientos en análisis de datos y Business Intelligence 
 - MongoDB
 - Firebase
 
-### Frontend
-
-- React
-- JavaScript
-- HTML
-- CSS
-
 ### Desarrollo móvil
 
 - Kotlin
@@ -49,13 +42,10 @@ También cuento con conocimientos en análisis de datos y Business Intelligence 
 ### Datos y Business Intelligence
 
 - SQL
-- Modelado dimensional
-- Data Warehouse
 - Power BI
 
 ### DevOps y herramientas
 
-- Docker
 - Git
 - GitHub
 - GitHub Actions
@@ -67,7 +57,6 @@ También cuento con conocimientos en análisis de datos y Business Intelligence 
 
 ## Actualmente fortaleciendo conocimientos
 
-- Testing automatizado
 - Buenas prácticas de arquitectura backend
 - Integración continua y despliegue
 - Diseño de sistemas escalables
